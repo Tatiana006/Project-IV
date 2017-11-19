@@ -1,0 +1,188 @@
+@charset "UTF-8";
+/* CSS Document */
+#logo img
+{
+	width: 660px;
+	height: 300px;
+	position: relative;
+	top:-7px;
+	left: 960px;
+
+}
+#navigation li
+{
+	list-style: none;
+	display: inline;
+	background-color: #55734F;
+	padding: 10px 40px;
+	margin:-2px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 400;
+	font-size: 30px;
+	text-align: center;
+}
+#navigation
+{
+	z-index: 2;
+	position: relative;
+	top: -10;
+	left: 825px;
+	
+}
+#topphoto img
+{
+	position:relative;
+	top:10px;
+	left: 650px;
+	height:900px;
+	width:1250px;
+
+}
+#about li
+{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+	font-weight: 600;
+	font-style: italic;
+	color:#B6DA62;
+	list-style: none;
+
+}
+#about
+{
+	position: relative;
+    top: 50px;
+	font-size: 30px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: 310;
+	color: white;
+	background-color: #55734F;
+	padding: 20px;
+}
+#map img
+{
+    position:relative;
+	top:75px;
+	left: 770px;
+	width: 1050px;
+	height: 900px;
+}
+#map2
+{
+	position:relative;
+	top: 100px;
+	font-size: 40px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: white;
+
+}
+#cancun img
+{
+	position: relative;
+	top:450px;
+	left: 600px;
+	width: 1400px;
+	height:1200px;
+}
+#table li
+{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+	color:azure;
+	list-style: none;
+	position: relative;
+	left: 50px;
+	background-color: #55734F;
+}
+#table
+{
+	top:300px;
+	width:900px;
+	height:3000px;
+	margin:0 auto;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	position: relative;
+	font-size: 25px;
+
+}
+#reviews li
+{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+	color:azure;
+	list-style: none;
+	position: relative;
+	left: 720px;
+	background-color: #55734F;
+	width: 1200px;
+}
+#reviews img
+{
+   position:relative;
+   top: -0px;
+   left: 700px;
+}
+#space
+{
+	width: 250px;
+	height: 250px;
+}
+#careers
+{
+	position: relative;
+	top: -100px;
+	left: 450px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	color: white;
+	background-color: black;
+	padding: 20px;
+	width: 1775px;
+
+
+}
+#careers a
+{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 60px;
+	text-align: center;
+	color:azure;
+	position: relative;
+	left: 720px;
+}
+#careers li
+{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+	color:azure;
+	list-style: none;
+	position: relative;
+	width: 1775px;
+	background-color: #55734F;
+}
+#footNav 
+{
+    width: auto;
+	height: 85px;
+	background-color:#55734F;
+	color: aliceblue;
+	bottom:-10px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: center;
+	word-spacing: 10px;
+}
+#footer
+{
+	bottom:-10px;
+}
